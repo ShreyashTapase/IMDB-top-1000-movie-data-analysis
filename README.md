@@ -1,10 +1,10 @@
 # IMDB-top-1000-movie-data-analysis
-**Context**
+**Context:**
 
 IMDB Dataset of top 1000 movies and TV shows.
 
 
-**Content**
+**Content:**
 
 Data:-
 
@@ -36,7 +36,7 @@ Data:-
 
 
 
-**Inspiration**
+**Inspiration:**
 
 *Analysis of top voted Movies
 
