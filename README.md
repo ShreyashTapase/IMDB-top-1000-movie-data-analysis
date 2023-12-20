@@ -7,11 +7,11 @@ IMDB Dataset of top 1000 movies and tv shows.
 
 Data:-
 
-Poster_Link - Link of the poster that imdb using
+*Poster_Link - Link of the poster that imdb using
 
-Series_Title = Name of the movie
+*Series_Title = Name of the movie
 
-Released_Year - Year at which that movie released
+*Released_Year - Year at which that movie released
 
 Certificate - Certificate earned by that movie
 
