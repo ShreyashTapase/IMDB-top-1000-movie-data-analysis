@@ -13,23 +13,23 @@ Data:-
 
 *Released_Year - Year at which that movie released
 
-Certificate - Certificate earned by that movie
+*Certificate - Certificate earned by that movie
 
-Runtime - Total runtime of the movie
+*Runtime - Total runtime of the movie
 
-Genre - Genre of the movie
+*Genre - Genre of the movie
 
-IMDB_Rating - Rating of the movie at IMDB site
+*IMDB_Rating - Rating of the movie at IMDB site
 
-Overview - mini story/ summary
+*Overview - mini story/ summary
 
-Meta_score - Score earned by the movie
+*Meta_score - Score earned by the movie
 
-Director - Name of the Director
+*Director - Name of the Director
 
-Star1,Star2,Star3,Star4 - Name of the Stars
+*Star1,Star2,Star3,Star4 - Name of the Stars
 
-No_of_votes - Total number of votes
+*No_of_votes - Total number of votes
 
-Gross - Money earned by that movie
+*Gross - Money earned by that movie
 
